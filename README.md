@@ -1,9 +1,7 @@
 <h1 align="center">Hey there👋, this is Sai Vasanth</h1>
 
-- 🔭 I’m currently working on **Web Development**
-
 - 🌱 I’m currently learning **Data Structures & Algorithms**
-
+  
 - 📫 How to reach me **saivasanththallam@gmail.com**
 
 - 👨‍🎓 Student at **Indian Institute of Information Technology, Lucknow**
